@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "express": "^4.17.3",
-    "nunjucks": "^3.2.3",
-    "sqlite3": "^5.0.2",
-    "vue-cli": "^2.9.6"
-  }
-}
